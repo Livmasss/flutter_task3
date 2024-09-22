@@ -1,16 +1,22 @@
 # flutter_task3
 
-A new Flutter project.
+ПКС 3 задание
+Сейранян Самвел Гагикович, ЭФБО-01-22
 
-## Getting Started
+- Создал иерархию пакетов
+![img.png](img.png)
 
-This project is a starting point for a Flutter application.
+- Проинициализировал список данных
+![img_1.png](img_1.png)
 
-A few resources to get you started if this is your first Flutter project:
+- Написал модель данных
+![img_2.png](img_2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Сверстал главную страницу!
+![img_7.png](img_7.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Сверстал страницу товара
+![img_8.png](img_8.png)
+
+*Результат*
+[Screen_recording_20240922_222126.mp4](..%2F..%2FScreen_recording_20240922_222126.mp4)

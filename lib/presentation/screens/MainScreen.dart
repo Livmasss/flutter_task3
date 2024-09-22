@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_task3/data/StaticData.dart';
-import 'package:flutter_task3/presentation/screens/ProductDetailsPage.dart';
+import 'package:flutter_task3/presentation/screens/ProductDetailsScreen.dart';
 import 'package:flutter_task3/presentation/widgets/ProductWidget.dart';
 
 class MainScreen extends StatefulWidget {
@@ -9,12 +9,6 @@ class MainScreen extends StatefulWidget {
   @override
   State<MainScreen> createState() => _MainScreenState();
 }
-
-final entries = [
-  "123",
-  "231",
-  "312"
-];
 
 class _MainScreenState extends State<MainScreen> {
   @override
@@ -30,7 +24,7 @@ class _MainScreenState extends State<MainScreen> {
               Navigator.push(
                 context,
                 MaterialPageRoute(
-                  builder: (context) => ProductDetailPage(product: product),
+                  builder: (context) => ProductDetailScreen(product: product),
                 ),
               );
             },
