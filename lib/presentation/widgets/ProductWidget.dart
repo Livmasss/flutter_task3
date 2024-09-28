@@ -25,6 +25,7 @@ class ProductWidget extends StatelessWidget {
           height: 50,
           fit: BoxFit.cover,
         ),
+        trailing: Text("${product.cost}₽"),
       ),
     );
   }
