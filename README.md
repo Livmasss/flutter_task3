@@ -19,4 +19,4 @@
 ![img_8.png](img_8.png)
 
 *Результат*
-[Screen_recording_20240922_222126.mp4](..%2F..%2FScreen_recording_20240922_222126.mp4)
+https://github.com/user-attachments/assets/1ccfee97-401b-48ae-9921-8e39d5b48b62
