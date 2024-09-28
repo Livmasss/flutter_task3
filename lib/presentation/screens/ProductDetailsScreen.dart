@@ -23,6 +23,11 @@ class ProductDetailScreen extends StatelessWidget {
               product.title,
               style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
             ),
+            const Padding(padding: EdgeInsets.symmetric(vertical: 8)),
+            Text(
+              "${product.cost}₽",
+              style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+            ),
             const SizedBox(height: 8.0),
             Text(
               product.subtitle,
